@@ -33,7 +33,9 @@ const Layout = ({ data }) => {
 
 export const query = graphql `
     query HomepageQuery {
-      allMarkdownRemark  {
+      allMarkdownRemark (
+        sort: { order: ASC, fields: [ frontmatter___date ] }
+      )  {
         edges {
           node {
             frontmatter {
