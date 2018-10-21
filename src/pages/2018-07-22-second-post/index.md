@@ -1,7 +1,7 @@
 ---
-path: "/first-post"
+path: "/second-post"
 date: "2018-07-22"
-title: "Second Post"
+title: "React's Life-cycle Methods"
 tags: ['React', 'life-cycles']
 excerpt: "A look at React's life-cycle methods"
 ---

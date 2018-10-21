@@ -1,7 +1,7 @@
 ---
-path: "/first-post"
+path: "/third-post"
 date: "2018-07-23"
-title: "Third Post"
+title: "Composition over Inheritence"
 tags: ['Inheritence', 'Patterns']
 excerpt: "Composition over inheritence"
 ---

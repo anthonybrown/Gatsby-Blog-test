@@ -1,7 +1,7 @@
 ---
 path: "/first-post"
 date: "2018-07-21"
-title: "My first Post"
+title: "Inheritence in JavaScript"
 tags: ['prototypical', 'Classical']
 excerpt: "An overview of prototypical inheritence over classical inheritence"
 ---
